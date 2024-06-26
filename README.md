@@ -29,12 +29,3 @@ Adapted from resources by Rishabh Mishra ([https://github.com/rishabhnmishra](ht
 
 This image depicts the tables and their relationships within the music store database. Understanding this schema is crucial for writing effective SQL queries to extract the desired information.
 
-**Note:** The actual table names and columns might differ depending on the specific database used.
-
-**SQL Script Files:**
-
-Specific questions and corresponding SQL code will be addressed in separate script files within this project folder. This approach promotes better organization and allows you to focus on individual questions.
-
-This project serves as a valuable tool for anyone interested in exploring the power of SQL data analysis in the context of an online music store. 
-
-**Note:** Feel free to modify this `README.md` further to match your specific project goals and learning objectives. You can also add a section about your contributions to the project for your portfolio.
