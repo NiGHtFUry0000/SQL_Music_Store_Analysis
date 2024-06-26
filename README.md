@@ -25,7 +25,7 @@ Adapted from resources by Rishabh Mishra ([https://github.com/rishabhnmishra](ht
 
 **Music Store Database Schema:**
 
-[Image of Music Store Database Schema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)  **[Optional]**
+[Image of Music Store Database Schema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)  ****
 
 This image (if available) depicts the tables and their relationships within the music store database. Understanding this schema is crucial for writing effective SQL queries to extract the desired information.
 
